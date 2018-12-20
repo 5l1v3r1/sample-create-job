@@ -1,0 +1,1 @@
+## golangからkubernetesのJobを作成するサンプルコード
